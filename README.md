@@ -1,7 +1,7 @@
 # PowerBi-Project2: Elevating My SQL Skills at IIM Kashipur!📊💡
 
 ## Overview
-This project showcases my journey through an enriching SQL workshop organized by TITAN at the Indian Institute of Management (IIM), Kashipu. The workshop focused on advanced SQL techniques, including complex joins, subqueries, and aggregate function. The culmination of this learning is a comprehensive dashboard created using Power BI, which integrates data from multiple tables to provide insightful visualization
+This project showcases my journey through an enriching SQL workshop organized by TITAN at the Indian Institute of Management (IIM), Kashipu. The workshop focused on advanced SQL techniques, including complex joins, subqueries, and aggregate function. The culmination of this learning is a comprehensive dashboard created using Power BI, which integrates data from multiple tables to provide insightful visualization
 
 ## Workshop Highlights
 
@@ -14,26 +14,26 @@ This project showcases my journey through an enriching SQL workshop organized by
 *Practical Applications of Aggregate Functions, Sorting, and Limiting Results 📈🔢🔒
 
 ## Project Details
-In this project, I applied the SQL skills acquired during the workshop to join multiple tables and create a dynamic dashboard using Power B. The dashboard offers interactive visualizations that provide insights into the combined data, demonstrating the practical application of advanced SQL techniques in data analysis and visualizatio
+In this project, I applied the SQL skills acquired during the workshop to join multiple tables and create a dynamic dashboard using Power B. The dashboard offers interactive visualizations that provide insights into the combined data, demonstrating the practical application of advanced SQL techniques in data analysis and visualizatio
 
 ## Features
 
-- **Data Integration:* Combines data from 4-5 related tables using complex SQL querie
-- **Interactive Dashboard:* Developed using Power BI, featuring filters, slicers, and drill-down capabilitie
-- **Visualizations:* Includes bar charts, line graphs, and pie charts to represent key metric
-- **User-Friendly Interface:* Designed for intuitive navigation and data exploratio
+- **Data Integration:* Combines data from 4-5 related tables using complex SQL querie
+- **Interactive Dashboard:* Developed using Power BI, featuring filters, slicers, and drill-down capabilitie
+- **Visualizations:* Includes bar charts, line graphs, and pie charts to represent key metric
+- **User-Friendly Interface:* Designed for intuitive navigation and data exploratio
 
 ## Technologies Used
 
-- **SQL:* For data extraction and manipulatio
-- **Power BI:* For data visualization and dashboard creatio
+- **SQL:* For data extraction and manipulatio
+- **Power BI:* For data visualization and dashboard creatio
 
 ## Installation and Usage
 
 1. **Clone the Repository:**
   ```bash
    git clone https://github.com/yourusername/PowerBi-Project2.git
-   `
+   `
 
 2. **Set Up the Database:**
     Ensure you have access to the database containing the relevant table
