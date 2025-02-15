@@ -1,20 +1,20 @@
 # PowerBi-Project2: Elevating My SQL Skills at IIM Kashipur!📊💡
 
 ## Overview
-This project showcases my journey through an enriching SQL workshop organized by TITAN at the Indian Institute of Management (IIM), Kashipu. The workshop focused on advanced SQL techniques, including complex joins, subqueries, and aggregate function. The culmination of this learning is a comprehensive dashboard created using Power BI, which integrates data from multiple tables to provide insightful visualization
+This project showcases my journey through an enriching SQL workshop organized by TITAN at the Indian Institute of Management (IIM), Kashipu. The workshop focused on advanced SQL techniques, including complex joins, subqueries, and aggregate function. The culmination of this learning is a comprehensive dashboard created using Power BI, which integrates data from multiple tables to provide insightful visualization
 
 ## Workshop Highlights
 
 - **Instructor:* Arpit Mishra, Senior Software Engineer at Zomato (working on Blinkit), with over 4 years of experience in SQL and database managemen
 
 - **Key Learnings:**
-   The importance of SQL in data-driven decision-makin
-   In-depth exploration of SQL queries: DDL, DML, and mor
-   Mastery of joins, groups, indexes, subqueries, and view
-   Practical applications of aggregate functions, sorting, and limiting result
+*The Importance of SQL in Data-Driven Decision-Making 📊💡
+*In-Depth Exploration of SQL Queries: DDL, DML, and More 🛠️🔍
+*Mastery of Joins, Groups, Indexes, Subqueries, and Views 🔗🔢🔎
+*Practical Applications of Aggregate Functions, Sorting, and Limiting Results 📈🔢🔒
 
 ## Project Details
-In this project, I applied the SQL skills acquired during the workshop to join multiple tables and create a dynamic dashboard using Power B. The dashboard offers interactive visualizations that provide insights into the combined data, demonstrating the practical application of advanced SQL techniques in data analysis and visualizatio
+In this project, I applied the SQL skills acquired during the workshop to join multiple tables and create a dynamic dashboard using Power B. The dashboard offers interactive visualizations that provide insights into the combined data, demonstrating the practical application of advanced SQL techniques in data analysis and visualizatio
 
 ## Features
 
