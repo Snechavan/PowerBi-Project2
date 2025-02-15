@@ -1,11 +1,11 @@
 # PowerBi-Project2: Elevating My SQL Skills at IIM Kashipur!📊💡
 
 ## Overview
-This project showcases my journey through an enriching SQL workshop organized by TITAN at the Indian Institute of Management (IIM), Kashipu. The workshop focused on advanced SQL techniques, including complex joins, subqueries, and aggregate function. The culmination of this learning is a comprehensive dashboard created using Power BI, which integrates data from multiple tables to provide insightful visualization
+This project showcases my journey through an enriching SQL workshop organized by TITAN at the Indian Institute of Management (IIM), Kashipur. The workshop focused on advanced SQL techniques, including complex joins, subqueries, and aggregate function. The culmination of this learning is a comprehensive dashboard created using Power BI, which integrates data from multiple tables to provide insightful visualization
 
 ## Workshop Highlights
 
-- **Instructor:* Arpit Mishra, Senior Software Engineer at Zomato (working on Blinkit), with over 4 years of experience in SQL and database managemen
+- **Instructor:* Arpit Mishra, Senior Software Engineer at Zomato (working on Blinkit), with over 4 years of experience in SQL and database managemen
 
 - **Key Learnings:**
 *The Importance of SQL in Data-Driven Decision-Making 📊💡
@@ -25,8 +25,8 @@ In this project, I applied the SQL skills acquired during the workshop to join m
 
 ## Technologies Used
 
-- **SQL:* For data extraction and manipulatio
-- **Power BI:* For data visualization and dashboard creatio
+- **SQL:* For data extraction and manipulation
+- **Power BI:* For data visualization and dashboard creation
 
 ## Installation and Usage
 
@@ -37,14 +37,14 @@ In this project, I applied the SQL skills acquired during the workshop to join m
 
 2. **Set Up the Database:**
     Ensure you have access to the database containing the relevant table
-    Import the provided SQL scripts to set up the necessary tables and sample dat
+    Import the provided SQL scripts to set up the necessary tables and sample data
 
 3. **Open the Power BI Project:**
-    Navigate to the `PowerBI` folde
-    Open the `.pbix` file using Power BI Deskto
+    Navigate to the `PowerBI` foldeer
+    Open the `.pbix` file using Power BI Desktop
 
 4. **Explore the Dashboard:**
-    Interact with the various visualizations to gain insights from the dat
+    Interact with the various visualizations to gain insights from the data
 
 ## Acknowledgments
-A special thanks to TITAN for organizing the workshop and to Arpit Mishra Sir for his invaluable guidance and expertis. This project is a testament to the skills and knowledge gained during the worksho
+A special thanks to TITAN for organizing the workshop and to Arpit Mishra Sir for his invaluable guidance and expertise. This project is a testament to the skills and knowledge gained during the workshop
